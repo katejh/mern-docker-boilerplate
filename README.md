@@ -7,7 +7,7 @@ Install:
 - npm
 - Docker and Docker Compose
 
-Create a `.env` file in the `/server` folder (see `.env.template`). For local development with docker, you may use `http://localhost:27017` as your `ATLAS_URI`.
+Create a `.env` file in the `/server` folder (see `.env.template`). For local development with docker, you may use `mongodb://mongo:27017/mern-test-db` as your `ATLAS_URI`.
 
 ## Usage
 
